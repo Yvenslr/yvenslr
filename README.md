@@ -27,4 +27,4 @@
 </div>
 
 
-![Snake animation](https://github.com/rafaballerini/yvenslr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yvenslr?tab=overview&from=2026-11-01&to=2026-11-18)
