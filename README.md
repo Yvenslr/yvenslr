@@ -1,6 +1,6 @@
 ## Olá eu sou Yan Yvens, criador de conteúdo de programação e tecnologia!
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yvenslr)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Yvenslr&rank_icon=github&custom_title=Minhas%20conquistas%21&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Yvenslr&rank_icon=github&custom_title=Minhas%20conquistas%21&show_icons=true&include_all_commits=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
