@@ -25,6 +25,3 @@
   <a href="https://www.linkedin.com/in/yan-yvens-2aa990450/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-![Snake animation](https://github.com/Yvenslr?tab=overview&from=2026-11-01&to=2026-11-18)
